@@ -1,0 +1,24 @@
+div{
+    border: solid 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    width: 850px;
+  }
+  h1{
+    color: rgb(99, 192, 99);
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+  p{
+    justify-content: center;
+    text-indent: 25px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+  
+  }
+  
+  a{
+    text-decoration: none;
+  }
