@@ -1,15 +1,30 @@
+
+body{
+  background-image: url(fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  overflow: scroll; 
+  background-attachment: fixed;
+}
+
 h1{
-    color: darkred;
-  }
-  
-  p{
-    color: rgb(0,255,0);
-  }
-  
-  em{
-  color:#000080;
-  }
-  
-  /* em{
-    color: hsl(240, 100%, 30%);
-  } */
+  font-size: 250%;
+  font-family: "Sofia", 'Times New Roman', Times, serif;
+  font-style: oblique;
+  color: darkred;
+  background-color: yellow;
+}
+
+p{
+  color: rgb(0,255,0);
+  opacity: 80%;
+}
+
+em{
+color:#000080;
+}
+
+/* em{
+  color: hsl(240, 100%, 30%);
+} */
+
