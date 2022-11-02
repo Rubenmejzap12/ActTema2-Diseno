@@ -8,23 +8,39 @@ body{
 }
 
 h1{
-  font-size: 250%;
+  font-size: 120%;
   font-family: "Sofia", 'Times New Roman', Times, serif;
   font-style: oblique;
   color: darkred;
   background-color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 5px 5px 5px;
 }
 
 p{
   color: rgb(0,255,0);
   opacity: 80%;
+  text-align: justify;
+  text-indent: 2800px;
 }
 
 em{
 color:#000080;
+text-decoration: underline;
+text-transform: capitalize
 }
 
 /* em{
   color: hsl(240, 100%, 30%);
 } */
 
+img{
+  width: 40px;
+  height: 40px;
+  vertical-align: super;
+}
+
+a{
+  text-decoration: none;
+}
